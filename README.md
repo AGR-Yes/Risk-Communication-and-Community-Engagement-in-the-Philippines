@@ -1,26 +1,31 @@
-# Project Title
+# RCCE and Communication in the Philippines
 
-Simple overview of use/purpose.
+The purpose of this application is to visualize the COVID-19 RCCE (Risk Communication and Community Engagement) responses in different regions of the Philippines. 
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This application shows the number of projects started during the time period of the dataset, communication channels used to communicate the said RCCE, and information gaps present.
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+pandas
+plotly.tools
+shapely.geometry (Point)
+plotly.express (version 4.7.0 or higher)
+plotly.graph_objects
+dash (dcc, html, Input, Output) (pip install dash (version 2.0.0 or higher))
+dash_bootstrap_components
+io
+base64
 
 ### Executing program
 
-* How to run the program
+Using Visual Studio Code, you may run the code itself through this application.
+
+Or, you may follow these steps to run the program:
+* How to run the program ```aaa ```
 * Step-by-step bullets
 ```
 code blocks for commands
