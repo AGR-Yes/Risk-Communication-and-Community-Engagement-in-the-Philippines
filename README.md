@@ -25,33 +25,22 @@ base64
 Using Visual Studio Code, you may run the code itself through this application.
 
 Or, you may follow these steps to run the program:
-* How to run the program ```aaa ```
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Open Anaconda Prompt and type the following:
+* ```conda env list ```
+* ```conda activate [input the name of your environment with all the packages]```
+* ```cd [input file path]```
+* ```python dashrcce.py```
 
-## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Jamias, Gillian Nicole
+Reyes, Anton Gabriel
+Villalon, Marife
 
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
 
 ## License
 
