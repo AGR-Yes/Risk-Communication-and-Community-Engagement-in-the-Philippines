@@ -10,15 +10,15 @@ This application shows the number of projects started during the time period of 
 
 ### Dependencies
 
-pandas
-plotly.tools
-shapely.geometry (Point)
-plotly.express (version 4.7.0 or higher)
-plotly.graph_objects
-dash (dcc, html, Input, Output) (pip install dash (version 2.0.0 or higher))
-dash_bootstrap_components
-io
-base64
+* pandas
+* plotly.tools
+* shapely.geometry (Point)
+* plotly.express (version 4.7.0 or higher)
+* plotly.graph_objects
+* dash (dcc, html, Input, Output) (pip install dash (version 2.0.0 or higher))
+* dash_bootstrap_components
+* io
+* base64
 
 ### Executing program
 
@@ -38,7 +38,9 @@ Or, you may follow these steps to run the program:
 ## Authors
 
 Jamias, Gillian Nicole
+
 Reyes, Anton Gabriel
+
 Villalon, Marife
 
 
