@@ -22,6 +22,8 @@ base64
 
 ### Executing program
 
+Before running, download all the files and make sure that everything is in the same folder. 
+
 Using Visual Studio Code, you may run the code itself through this application.
 
 Or, you may follow these steps to run the program:
@@ -35,16 +37,10 @@ Or, you may follow these steps to run the program:
 
 ## Authors
 
-Contributors names and contact info
-
 Jamias, Gillian Nicole
 Reyes, Anton Gabriel
 Villalon, Marife
 
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
