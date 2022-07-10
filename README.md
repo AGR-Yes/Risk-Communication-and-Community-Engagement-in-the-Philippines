@@ -31,7 +31,7 @@ Or, you may follow these steps to run the program:
 * ```conda env list ```
 * ```conda activate [input the name of your environment with all the packages]```
 * ```cd [input file path]```
-* ```python dashrcce.py```
+* ```python GRP1_RCCE.py```
 
 
 
