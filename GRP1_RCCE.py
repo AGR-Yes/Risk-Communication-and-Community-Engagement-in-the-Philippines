@@ -193,8 +193,8 @@ modal = html.Div(
     ],
     style = {
         'position':'fixed',
-        'bottom':'2vh',
-        'left':'2vw'
+        'top':'2vh',
+        'right':'2vw'
         }
 )
 
